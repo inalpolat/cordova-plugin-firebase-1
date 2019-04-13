@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "123",
-    "firebase_url": "https://cordova-plugin-firebase.firebaseio.com",
-    "project_id": "cordova-plugin-firebase",
-    "storage_bucket": "cordova-plugin-firebase.appspot.com"
+    "project_number": "41653265909",
+    "firebase_url": "https://future-aurora-553.firebaseio.com",
+    "project_id": "future-aurora-553",
+    "storage_bucket": "future-aurora-553.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123:android:123",
+        "mobilesdk_app_id": "1:41653265909:android:04e052bea00c71a6",
         "android_client_info": {
-          "package_name": "com.github.cordova_plugin_firebase"
+          "package_name": "com.bizimhesap.mobile"
         }
       },
       "oauth_client": [
         {
-          "client_id": "123.apps.googleusercontent.com",
+          "client_id": "41653265909-5gda2lmsdn71tdgnpa4v83tvao4gslf2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "123"
+          "current_key": "AIzaSyCV2HgedMQybmsTpIV0ojtzT6GY4OTEVRk"
         }
       ],
       "services": {
